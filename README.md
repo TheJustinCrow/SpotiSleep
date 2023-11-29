@@ -6,6 +6,8 @@ SpotiSleep is a Spotify desktop sleep timer designed to simplify your music list
 
 SpotiSleep offers a user-friendly GUI, allowing you to select a specific duration until Spotify automatically stops. After the set time elapses, SpotiSleep halts the Spotify process, ensuring a seamless transition from your music to a peaceful silence.
 
+<img src="Assets/ui.png" alt="Screenshot" width="300"/>
+
 ## Usage/Installation
 
 **From Executable (SpotiSleep_**exe**_v1.0.0.zip):**
