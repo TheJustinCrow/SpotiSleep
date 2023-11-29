@@ -1,4 +1,4 @@
-# SpotiSleep 🎶💤
+<img src="Assets/logo.png" alt="Logo" width="300"/>
 
 SpotiSleep is a Spotify desktop sleep timer designed to simplify your music listening experience by providing a convenient way to set a timer for when Spotify should stop playing music.
 
